@@ -1,12 +1,12 @@
 # *Hi there 👋*
 
-### I'm Joevano, usually known as `Myoshu.` I'am a student from Pontianak city and I want to be web developer
+### I'm Joevano, usually known as `Myoshu.` I'm a student and I want to be web developer
 
 🌐 [Website](https://joe.envaino.id)
 <br>
 ✉ [Email](mailto:myoshu.me@gmail.com)
 
-> Still learning <!>
+> Still learning <!> | Pontianak City
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Myoshuu)](https://github.com/anuraghazra/github-readme-stats)
 

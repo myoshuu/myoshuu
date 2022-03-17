@@ -12,10 +12,11 @@
 
 ## Usually programming language that I know and use ⚒
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoshuu&langs_count=2" align="right" width="300px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoshuu&langs_count=8" align="right" width="300px">
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
+![Blade](https://img.shields.io/badge/-Blade-2f1a47?style=flat&logo=blade)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-2f1a47?style=flat&logo=csharp)&nbsp;
 
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;

@@ -24,7 +24,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-Express-2f1a47?style=flat&logo=express)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;
-![VueJS](https://img.shields.io/badge/-VueJS-2f1a47?style=flat&logo=vue)
+![VueJS](https://camo.githubusercontent.com/e5c8f9e5b48e730b94673b6e381f5ba25e582f71006f24c4dd27b7f64e0b4c99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675654a732d3266316134373f7374796c653d666c6174266c6f676f3d5675652e6a73)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2f1a47?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;

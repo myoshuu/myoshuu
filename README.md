@@ -1,6 +1,6 @@
 # *Hi there 👋*
 
-### I'm Joevano, usually known as `Myoshu.` I'm a student and I want to be web developer
+### I'm Joevano, usually known as `Myoshu.` I'm a student
 
 🌐 [Website](https://joe.envaino.id)
 <br>

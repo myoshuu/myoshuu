@@ -37,4 +37,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-2f1a47?style=flat&logo=figma)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=postman)&nbsp;
 
-Inspired by @Edqe14
+<small>Inspired by ![@Edqe14](https://github.com/Edqe14)</small>

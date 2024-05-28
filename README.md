@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/myoshuu/myoshuu/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://github.com/myoshuu/myoshuu/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###

@@ -1,10 +1,9 @@
-<h1 align="left">Hi There👋</h1>
-
 ###
+**`Full-stack Developer`**
 
 <h3 align="left">My name is Joevano, usually know as Myoshu.</h3>
 
-<p align="left">Self-taught Web Developer with several years of experience and Student from Satya Wacana Christian University. Certified by BNSP in the field of Junior Web Programmer</p>
+<p align="left">I'm a full-stack Web Developer with several years of experience and a Student from Satya Wacana Christian University. Certified by BNSP in the field of Junior Web Programmer</p>
 
 ###
 
@@ -20,17 +19,17 @@
   </a>
 </div>
 
-###
+---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=myoshuu)](https://git.io/streak-stats)
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=myoshuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myoshuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<br />
 
-<br clear="both">
+[![My Skills](https://skillicons.dev/icons?i=react,vue,laravel,html,css,js,ts,php,java&theme=dark)](https://skillicons.dev)
 
-<!-- <img src="https://github.com/myoshuu/myoshuu/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###

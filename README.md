@@ -29,7 +29,7 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,laravel,html,css,js,ts,php,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,laravel,tailwind,html,css,js,ts,php,java&theme=dark)](https://skillicons.dev)
 
 
 ###

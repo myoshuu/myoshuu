@@ -3,7 +3,7 @@
 
 <h3 align="left">My name is Joevano, usually know as Myoshu.</h3>
 
-<p align="left">I'm a full-stack Web Developer with several years of experience and a Student from Satya Wacana Christian University. Certified by BNSP in the field of Junior Web Programmer</p>
+<p align="left">I'm a full-stack Web Developer with several years of experience and a Student from Satya Wacana Christian University. Certified by BNSP in the field of Junior Web Programmer since 2022</p>
 
 ###
 

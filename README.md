@@ -1,12 +1,10 @@
+## Holaa!!👋 — I'm Joevano, known as Myoemo/Myoshu
 ###
-**`Full-stack Developer`**
+> Full-stack Developer
 
-<h3 align="left">My name is Joevano, usually know as Myoshu.</h3>
+I am currently focusing on deepening my knowledge of JavaScript/TypeScript and have around **3 years** of experience using PHP/Laravel in **Web Development**. I have worked on several projects, including some international-level projects such as [ICAST](https://icast2025.uksw.edu), which is currently in progress. I also enjoy working in a team and collaborating with other developers.
 
-<p align="left">I'm a full-stack Web Developer with several years of experience and a Student from Satya Wacana Christian University. Certified by BNSP in the field of Junior Web Programmer since 2022</p>
-
-###
-
+### Contact Me
 <div align="left">
   <a href="https://discordapp.com/users/543362876107259925" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -19,17 +17,16 @@
   </a>
 </div>
 
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=myoshuu)](https://git.io/streak-stats)
+### Github Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=myoshuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myoshuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br />
+### Tech
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,javascript,jquery,python,java,php,lua,html,css&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nextjs,react,vue,nuxt,vite,laravel,express,tailwind&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,bash,powershell,supabase,mysql,postgresql&theme=dark)](https://skillicons.dev) <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,laravel,tailwind,html,css,js,ts,php,java&theme=dark)](https://skillicons.dev)
-
-
-###
+### Still Learning
+[![My Skills](https://skillicons.dev/icons?i=golang,rust,&theme=dark)](https://skillicons.dev)

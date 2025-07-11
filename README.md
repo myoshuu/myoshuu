@@ -25,8 +25,9 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
 
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,javascript,jquery,python,java,php,lua,html,css&theme=dark)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nextjs,react,vue,nuxt,vite,laravel,express,tailwind&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxt,react,vue,vite,laravel,express,tailwind,bootstrap&theme=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,bash,powershell,mysql,postgresql&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,bun,yarn&theme=dark)](https://skillicons.dev) <br>
 
 ### Still Learning
-[![My Skills](https://skillicons.dev/icons?i=golang,rust,supabase,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,dart,flutter,golang,rust,supabase,mongodb&theme=dark)](https://skillicons.dev)

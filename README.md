@@ -23,6 +23,8 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myoshuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=myoshuu&theme=dark)](https://git.io/streak-stats)
+
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,javascript,jquery,python,java,php,lua,html,css&theme=dark)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nuxt,react,vue,vite,laravel,express,tailwind,bootstrap&theme=dark)](https://skillicons.dev) <br>

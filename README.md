@@ -2,7 +2,12 @@
 ###
 > Full-stack Developer
 
-I am currently focusing on deepening my knowledge of JavaScript/TypeScript and have around **3 years** of experience using PHP/Laravel in **Web Development**. I have worked on several projects, including some international-level projects such as [ICAST](https://icast2025.uksw.edu), which is currently in progress. I also enjoy working in a team and collaborating with other developers.
+I am currently focusing on deepening my knowledge of JavaScript/TypeScript and have around **3 years** of experience using PHP/Laravel in **Web Development**. I have worked on several projects, including some international-level projects such as [Eventra](https://eventra.id). I also enjoy working in a team and collaborating with other developers.
+
+### Project that I've worked on
+- 🎭 [Eventra](https://eventra.id) – Event organizer for UISPP 2025
+- 🌱 [KampuskuFloraku](https://kampuskufloraku.uksw.edu) – Vegetation management collaborate with FBIO Satya Wacana Christian University
+- 🌐 [ICAST](https://icast2025.uksw.edu) – Inforgraphic for International Conference
 
 ### Contact Me
 <div align="left">

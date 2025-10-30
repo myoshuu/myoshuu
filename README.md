@@ -22,7 +22,7 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
 - 🌐 [ICAST](https://icast2025.uksw.edu) – Inforgraphic for International Conference – IEEE
 
 ### Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=myoshuu&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=myoshuu&theme=dark)](https://git.io/streak-stats) 
 
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,javascript,jquery,python,java,php,lua,html,css&theme=dark)](https://skillicons.dev) <br>

@@ -17,16 +17,11 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
 </div>
 
 ### Project that I've worked on
-- 🎭 [Eventra](https://eventra.id) – Event organizer for UISPP 2025
-- 🌱 [KampuskuFloraku](https://kampuskufloraku.uksw.edu) – Vegetation management collaborate with FBIO Satya Wacana Christian University
-- 🌐 [ICAST](https://icast2025.uksw.edu) – Inforgraphic for International Conference
+- 🎭 [Eventra](https://eventra.id) – Event organizer for UISPP 2025 (will be developed to manage others event too)
+- 🌱 [KampuskuFloraku](https://kampuskufloraku.uksw.edu) – Vegetation information collaborate with FBIO Satya Wacana Christian University
+- 🌐 [ICAST](https://icast2025.uksw.edu) – Inforgraphic for International Conference – IEEE
 
-### Github Stats
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=myoshuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myoshuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
-
+### Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=myoshuu&theme=dark)](https://git.io/streak-stats)
 
 ### Tech

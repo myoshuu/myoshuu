@@ -17,9 +17,10 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
 </div>
 
 ### Project that I've worked on
-- 🎭 [Eventra](https://eventra.id) – Event organizer for UISPP 2025 (will be developed to manage others event too)
+- 🎭 [Eventra](https://eventra.id) – Event organizer for UISPP 2025
 - 🌱 [KampuskuFloraku](https://kampuskufloraku.uksw.edu) – Vegetation information collaborate with FBIO Satya Wacana Christian University
-- 🌐 [ICAST](https://icast2025.uksw.edu) – Inforgraphic for International Conference – IEEE
+- 🌐 [Spektre](https://spektre.aprovoid.cloud) – Application that support FKIP to evaluate the proccess of Microteaching
+- 🎓 [Online Test](https://ot.aprovoid.cloud) – Online Test application with anti-cheat features
 
 ### Github Streak
  [![GitHub Streak](https://streak-stats.demolab.com?user=myoshuu&theme=dark)](https://git.io/streak-stats)

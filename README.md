@@ -4,8 +4,6 @@
 
 I am currently focusing on deepening my knowledge of JavaScript/TypeScript and have around **3 years** of experience using PHP/Laravel in **Web Development**. I have worked on several projects, including some international-level projects such as [Eventra](https://eventra.id). I also enjoy working in a team and collaborating with other developers.
 
->> Typescript, PHP, Go
-
 <div align="left">
   <a href="https://discordapp.com/users/543362876107259925" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />

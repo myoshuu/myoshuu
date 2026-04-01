@@ -19,5 +19,5 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
 ### Project that I've worked on
 - 🎭 [Eventra](https://eventra.id) – Event organizer for UISPP 2025
 - 🌱 [KampuskuFloraku](https://kampuskufloraku.uksw.edu) – Vegetation information collaborate with FBIO Satya Wacana Christian University
-- 🌐 [Spektre](https://spektre.aprovoid.cloud) – Application that support FKIP to evaluate the proccess of Microteaching
-- 🎓 [Online Test](https://ot.aprovoid.cloud) – Online Test application with anti-cheat features
+- 🌐 [Spektre](https://ppguksw.cloud/spektre) – Application that support FKIP to evaluate the proccess of Microteaching
+- 🎓 [Online Test](https://ot.ratival.com) – Online Test application with anti-cheat features

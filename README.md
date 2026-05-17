@@ -2,7 +2,7 @@
 ###
 > Full-stack Developer
 
-I am currently focusing on deepening my knowledge of JavaScript/TypeScript and have around **3 years** of experience using PHP/Laravel in **Web Development**. I have worked on several projects, including some international-level projects such as [Eventra](https://eventra.id). I also enjoy working in a team and collaborating with other developers.
+I am currently focusing on deepening my knowledge of JavaScript/TypeScript and have around **3 years** of experience using PHP/Laravel in **Web Development**. I have worked on several projects, including some international-level projects such as [Eventra](https://eventra.id) and [iCAST 2025 Information Web](https://icast2026.uksw.edu). I also enjoy working in a team and collaborating with other developers.
 
 <div align="left">
   <a href="https://discordapp.com/users/543362876107259925" target="_blank">

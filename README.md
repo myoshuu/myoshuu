@@ -17,7 +17,7 @@ I am currently focusing on deepening my knowledge of JavaScript/TypeScript and h
 </div>
 
 ### Project that I've worked on
-- 🎭 [GKMI Sion](https://gkmision.org) – Church Information and Data Management
+- ⛪️ [GKMI Sion](https://gkmision.org) – Church Information and Data Management
 - 🌱 [KampuskuFloraku](https://kampuskufloraku.uksw.edu) – Vegetation information collaborate with FBIO Satya Wacana Christian University
 - 🌐 [Spektre](https://ppguksw.cloud/spektre) – Application that support FKIP to evaluate the proccess of Microteaching
 - 🎓 [Online Test](https://ot.ratival.com) – Online Test application with anti-cheat features
